@@ -1,0 +1,30 @@
+body{
+background-image:url("./toy.jpeg");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+.heading1
+{
+  font-size:100px;
+  color:black;
+  background-color:white;
+  margin:0;
+  padding:0;
+  text-align:center;
+  font-family:'Segoe Script';
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translateX(-50%) translatey(-50%);
+  border:20px solid white;
+}
+a
+{
+  margin:0;
+  padding:0;
+  text-align:center;
+  position:absolute;
+  top:60%;
+  left:45%;
+}
